@@ -1,4 +1,1 @@
- <div>
-  <a href="https://github.com/igorpaiva">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorpaiva&layout=compact&langs_count=5"/> 
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorpaiva&hide=javascript,html,css,typescript&langs_count=5&layout=compact)](https://github.com/igorpaiva)
