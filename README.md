@@ -1,4 +1,8 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorpaiva&hide=javascript,html,css,typescript&langs_count=5&layout=compact)](https://github.com/igorpaiva)
+<p align="center">
+  <a href="https://github.com/igorpaiva">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorpaiva&hide=html,css,typescript&langs_count=6&layout=compact" alt="Top Langs">
+  </a>
+</p>
 
 ## Hi there! 👋
 
@@ -8,7 +12,7 @@ I'm [Igor Araujo](https://www.linkedin.com/in/igor-paiva-araujo/), a software de
 - 📚 **Academic background**: I am an Electrical Engineer, graduated from [UFCG](https://en.wikipedia.org/wiki/Federal_University_of_Campina_Grande)!
 - 🌍 **Where I’ve Worked**: Over the past 3 years, I’ve delivered projects for local (Brazil) and international clients like HP Inc., collaborating with teams across the Americas while working on [VIRTUS-UFCG](https://www.virtus.ufcg.edu.br/en/).
 - 🔄 **What I Do**: From writing REST APIs to working with industrial communication protocols (think Modbus, OPC-UA, MQTT), I’m all about making systems talk to each other smoothly.
-- 📦 Tools of the Trade:
+- 📦 **Tools of the Trade**:
   - **Backend**: Spring Boot, [Ulfius](https://github.com/babelouest/ulfius)
   - **Frontend Collabs**: Angular, React
   - **Embedded**: Firmware for network devices (embedded REST APIs)
