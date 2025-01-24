@@ -17,7 +17,7 @@ I'm [Igor Araujo](https://www.linkedin.com/in/igor-paiva-araujo/), a software de
   - **Frontend Collabs**: Angular, React
   - **Embedded**: Firmware for network devices (embedded REST APIs)
   - **DevOps**: Docker, CI/CD pipelines, Git
-  - **Programming languages**: Java, C/C++, Python, TypeScript, and others... Try me! 😁
+  - **Programming languages**: Java, C, C++, Python, TypeScript, and others... Try me! 😁
 - 🛠 **How I Work**: Agile methodologies, containerized environments, and lots of unit testing.
 ### 🚀 What I’ve Built Professionally
 - 📸 **Digital Camera Software**: Developed Python-based solutions for hardware integration.
