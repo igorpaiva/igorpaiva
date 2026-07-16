@@ -11,14 +11,14 @@ I'm **Igor Araujo**, a **Full-Stack Software Engineer** passionate about buildin
 **4+ years** delivering full-stack solutions for local and international clients across various industries.
 
 ### Current Position
-🏢 **Full-Stack Software Engineer** at [Accenture](https://www.accenture.com/) - Delivering enterprise-level solutions
+🏢 **Full-Stack Software Engineer** at [Accenture](https://www.accenture.com/) - Delivering enterprise-level solutions. Currently working for:
+  - **Banco do Brasil** - Financial technology solutions
 
 ### Previous Experience
 - **Software Engineer** at [VIRTUS-UFCG](https://www.virtus.ufcg.edu.br/en/) - Worked with major clients including:
   - **HP Inc.** - International projects
   - **Intelbras** - IoT and industrial solutions
   - **Novus** - Automation systems
-  - **Banco do Brasil** - Financial technology solutions
 
 ### Entrepreneurship
 🚀 **Co-founder & Developer** at [V3 Soluções](https://www.v3solucoes.com/) - Custom software solutions and digital transformation
@@ -51,9 +51,6 @@ Institutional website for integrated dental clinic with appointment scheduling a
 
 #### [Comsol Energias](https://www.comsolenergias.com.br/)
 Corporate website for renewable energy company featuring portfolio and client solutions.
-
-#### [Temis - Sistema de Triagem Jurídica Inteligente](https://www.v3solucoes.com/temis/)
-Intelligent legal triage system using AI to optimize law firm workflows and case management.
 
 #### Solar Energy Proposal Generator
 *(In Development)* - Automated proposal generation system for solar energy projects with ROI calculations and technical specifications.
